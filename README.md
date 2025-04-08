@@ -10,7 +10,7 @@ This PowerShell script automates the process of migrating a computer from one Ac
 - Sets static DNS to `10.50.0.17`
 - Creates a new local administrator account (customizable)
 - Disables all other local user accounts
-- Joins the new domain (`Mednet.net`)
+- Joins the new domain (`Company Domain Name`)
 - Reboots the machine after successful domain join
 
 ---
